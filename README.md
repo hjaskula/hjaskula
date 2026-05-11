@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Hubert! 👋
 
-<!--
-**hjaskula/hjaskula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 6th-semester Computer Science student at the University of Zielona Góra, focusing on building efficient backend systems and modern mobile applications.
 
-Here are some ideas to get you started:
+🎯 **Currently seeking an IT internship/junior position**, where I can apply my engineering knowledge, contribute to a team, and continue developing my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Backend & Databases:**
+![Java](https://img.shields.io/badge/java-21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot_3-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Mobile:**
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+**Tools:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Key Projects
+
+* 🛒 **[UZed.pl](https://github.com/hjaskula/uzed.pl-backend)** – C2C Auction Platform. Backend built with **Java 21 / Spring Boot 3**. Implemented stateless JWT authentication, dynamic data filtering (Criteria API), and real-time chat using **WebSockets & STOMP**. Environment containerized with Docker.
+* 📱 **[Check. (NawykUZ)](https://github.com/Szpont-Company/NawykUZ_App)** – Gamified Habit Tracker. Declarative UI built in **Jetpack Compose** following Material Design 3 guidelines. Real-time data synchronization handled with **Firebase Firestore** and **Kotlin Flow**.
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjaskula&show_icons=true&theme=transparent&hide_border=true&title_color=103731&icon_color=24776B&text_color=1c1c1c)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hjaskula&layout=compact&theme=transparent&hide_border=true&title_color=103731&text_color=1c1c1c)
+
+---
+
+### 📫 Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-jaskula/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hubert.jaskula.it@gmail.com)
