@@ -27,15 +27,6 @@ I'm a 6th-semester Computer Science student at the University of Zielona Góra, 
 * 🛒 **[UZed.pl](https://github.com/hjaskula/uzed.pl-backend)** – C2C Auction Platform. Backend built with **Java 21 / Spring Boot 3**. Implemented stateless JWT authentication, dynamic data filtering (Criteria API), and real-time chat using **WebSockets & STOMP**. Environment containerized with Docker.
 * 📱 **[Check. (NawykUZ)](https://github.com/Szpont-Company/NawykUZ_App)** – Gamified Habit Tracker. Declarative UI built in **Jetpack Compose** following Material Design 3 guidelines. Real-time data synchronization handled with **Firebase Firestore** and **Kotlin Flow**.
 
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjaskula&show_icons=true&theme=transparent&hide_border=true&title_color=103731&icon_color=24776B&text_color=1c1c1c)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hjaskula&layout=compact&theme=transparent&hide_border=true&title_color=103731&text_color=1c1c1c)
-
----
 
 ### 📫 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hubert-jaskula/)
